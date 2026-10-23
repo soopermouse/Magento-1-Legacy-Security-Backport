@@ -2,7 +2,11 @@
 
 Independent product targeting Magento Community Edition 1.9.2.x and 1.9.3.x on legacy PHP 5.5 and PHP 5.6.
 
-**Current release: development baseline, not a security patch.** No PHP 5.5 or 5.6 CVE backport has been implemented or tested yet. Do not deploy this repository as a mitigation. The earlier PHP 5.4.16 RHEL7 patch is **not** compatible by assumption.
+USE AT YOUR OWN RISK
+
+This version still needs end to end testing.
+Feel free to fork, test or use as base for your own patch
+manually coded, tested by AI.
 
 ## Baselines
 
