@@ -1,0 +1,9 @@
+Zend/zend_alloc.c
+Zend/zend_alloc.h
+Zend/zend_execute_API.c
+Zend/zend_llist.c
+Zend/zend_strtod.c
+ext/session/session.c
+main/SAPI.c
+main/main.c
+main/rfc1867.c

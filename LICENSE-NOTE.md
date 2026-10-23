@@ -1,0 +1,1 @@
+The repository contains original project documentation and scripts. Any future PHP source patches remain subject to the licensing and notices of the PHP source they modify. Review licenses and attribution before distributing derived source or binaries.

@@ -1,0 +1,10 @@
+sources/
+build/
+*.rpm
+*.src.rpm
+*.tar.xz
+*.tar.gz
+*.tar.bz2
+*.log
+*.rej
+*.orig

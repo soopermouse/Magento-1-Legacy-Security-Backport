@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "branches": {
+    "5.5.38": {
+      "source_integrity": false,
+      "source_patch_review": false,
+      "cli_cgi_security": true,
+      "regression_review": false,
+      "apache_mod_php": false,
+      "apache_security_battery": false,
+      "package_install_rollback": false,
+      "independent_security_review": false,
+      "magento": {"1.9.2": false, "1.9.3": false},
+      "evidence_refs": ["external-test-report-pending-archival"]
+    },
+    "5.6.40": {
+      "source_integrity": false,
+      "source_patch_review": false,
+      "cli_cgi_security": true,
+      "regression_review": false,
+      "apache_mod_php": false,
+      "apache_security_battery": false,
+      "package_install_rollback": false,
+      "independent_security_review": false,
+      "magento": {"1.9.2": false, "1.9.3": false},
+      "evidence_refs": ["external-test-report-pending-archival"]
+    }
+  }
+}
